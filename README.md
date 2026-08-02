@@ -81,23 +81,43 @@ The system aims to:
 
 ## Login
 
-> *(Insert login screenshot here)*
+![Login](screenshots/login.png)
+
+---
 
 ## Dashboard
 
-> *(Insert dashboard screenshot here)*
+![Dashboard](screenshots/dashboard.png)
+
+---
 
 ## Project Creation
 
-> *(Insert project creation screenshot here)*
+![Project Creation](screenshots/project-creation.png)
 
-## Analytics
+---
 
-> *(Insert analytics screenshot here)*
+## Project Evaluation
 
-## Project List
+![Project Evaluation](screenshots/project-evaluation.png)
 
-> *(Insert projects screenshot here)*
+---
+
+## Project Approval
+
+![Project Approval](screenshots/project-approval.png)
+
+---
+
+## Analytics Dashboard
+
+![Analytics Dashboard](screenshots/analytic-dashboard.png)
+
+---
+
+## User Creation
+
+![User Creation](screenshots/user-creation.png)
 
 ---
 
