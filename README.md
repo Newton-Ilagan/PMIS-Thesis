@@ -11,35 +11,73 @@
 
 # 📖 Overview
 
-The Project Management Information System (PMIS) is a desktop application designed to help Module Pro Furniture and Fixture manage projects more efficiently through a centralized system.
+The Project Management Information System (PMIS) is a desktop application designed to improve the project management workflow of **Module Pro Furniture and Fixture**.
 
-The application provides project tracking, approval workflows, analytics, and user management, replacing manual record-keeping and improving project monitoring.
+The system replaces manual project monitoring by providing a centralized platform where administrators and staff can manage projects, monitor project progress, organize client information, and oversee project-related activities more efficiently.
 
 ---
 
-# ✨ Features
+# 🎯 Objectives
 
-- User Authentication
-- Dashboard
-- Project Creation
-- Project Evaluation
-- Project Approval
-- Analytics Dashboard
-- User Management
+The system aims to:
+
+- Streamline project management processes
+- Reduce manual record keeping
+- Improve monitoring of ongoing projects
+- Organize client and project information
+- Provide an analytics dashboard for monitoring project status
+- Improve productivity through centralized project management
+
+---
+
+# ✨ Key Features
+
+## Dashboard
+
+- Active Projects
+- Pending Projects
+- Recently Finished Projects
+- Notifications
+
+## Project Management
+
+- Create Project
+- View Projects
+- Update Project Information
+- Project Breakdown
+
+## Analytics
+
+- Project Analytics Dashboard
 - Project Monitoring
+
+## User Management
+
+- User Login
+- Admin and Staff Roles
+- Authorization and Access Control
+
+## Additional Modules
+
+- Notifications
+- Backup & Restore
+- Settings
+- Request Management
 
 ---
 
 # 🛠️ Technologies Used
 
-- C#
-- Windows Forms
-- SQLite
-- Visual Studio
+| Technology | Purpose |
+|------------|---------|
+| C# | Desktop Application Development |
+| Windows Forms | User Interface |
+| SQLite | Database |
+| Visual Studio | Development Environment |
 
 ---
 
-# 📸 System Preview
+# 📸 Screenshots
 
 ## Login
 
@@ -83,29 +121,52 @@ The application provides project tracking, approval workflows, analytics, and us
 
 ---
 
+# 👨‍💻 My Contributions
+
+As a member of the capstone development team, I contributed to the development of the Project Management Information System by participating in:
+
+- Requirements gathering
+- Client interviews
+- UI design
+- System development
+- Database implementation
+- Feature implementation
+- System testing
+- Documentation
+
+---
+
 # 📄 Documentation
 
-The complete capstone documentation is included in this repository.
+The complete capstone documentation is available in this repository.
+
+📁 **Project Management System for Module Pro Furniture and Fixture.pdf**
 
 ---
 
 # 🚀 Future Improvements
 
-- Email Notifications
-- Cloud Database
-- Mobile Application
-- Data Visualization Improvements
-- Project Forecasting
+- Email notifications
+- Cloud database support
+- Mobile application
+- Advanced reporting
+- Data visualization improvements
+- Automatic project forecasting
 
 ---
 
-# 👨‍💻 Contributors
+# 📚 Academic Information
 
-- Newton Ilagan
-- Capstone Team Members
+**Course**
+
+Bachelor of Science in Computer Science
+
+**Project Type**
+
+Capstone Project
 
 ---
 
 # ⭐ Acknowledgements
 
-Special thanks to our thesis adviser, panelists, classmates, and our client, Module Pro Furniture and Fixture, for their guidance throughout the development of this project.
+Special thanks to our thesis adviser, panelists, classmates, and our client, **Module Pro Furniture and Fixture**, for their guidance and support throughout the development of this project.
